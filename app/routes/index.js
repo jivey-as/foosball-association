@@ -11,11 +11,19 @@ router.get('/', function(req, res, next) {
 });
 
 /* GET vs page. */
-router.get('/vs', function() {
+router.get('/vs', function(req, res, next) {
   res.render('vs', { title: 'Express' });
 });
 
+/* POST create player. */
+router.post('/createPlayer', function(req, res, next) {
+  
 
+
+
+  res.render('vs', { title: 'Express' });
+
+});
 
 
 
