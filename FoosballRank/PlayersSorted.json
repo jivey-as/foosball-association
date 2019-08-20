@@ -1,0 +1,154 @@
+{
+    "Jakin": {
+        "ELO": 1248.3123643228726,
+        "Games played": 118,
+        "Last played time": "2019-08-15 14:27:28.641343",
+        "Losses": 38,
+        "Streak": 1,
+        "Wins": 80
+    },
+    "Will": {
+        "ELO": 1148.2034041404343,
+        "Games played": 86,
+        "Last played time": "2019-08-15 14:27:28.641384",
+        "Losses": 43,
+        "Streak": 0,
+        "Wins": 43
+    },
+    "Isaac": {
+        "ELO": 1086.454313816695,
+        "Games played": 8,
+        "Last played time": "2019-08-15 14:26:31.352105",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 7
+    },
+    "Jake": {
+        "ELO": 1046.3508711367522,
+        "Games played": 6,
+        "Last played time": "2019-07-31 13:18:58.147163",
+        "Losses": 1,
+        "Streak": 5,
+        "Wins": 5
+    },
+    "Matt": {
+        "ELO": 1019.8191160005317,
+        "Games played": 119,
+        "Last played time": "2019-08-15 14:27:35.720101",
+        "Losses": 65,
+        "Streak": 2,
+        "Wins": 54
+    },
+    "Herman": {
+        "ELO": 1015.0559250636018,
+        "Games played": 1,
+        "Last played time": "2019-04-29 14:51:07.966239",
+        "Losses": 0,
+        "Streak": 1,
+        "Wins": 1
+    },
+    "Anil": {
+        "ELO": 1009.6621194976422,
+        "Games played": 2,
+        "Last played time": "2019-07-31 13:19:04.863959",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 1
+    },
+    "Paul": {
+        "ELO": 1004.028863310236,
+        "Games played": 16,
+        "Last played time": "2019-08-15 14:27:01.563754",
+        "Losses": 8,
+        "Streak": 0,
+        "Wins": 8
+    },
+    "Adam": {
+        "ELO": 988.983975445339,
+        "Games played": 1,
+        "Last played time": "2019-05-17 15:16:42.745330",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Lon": {
+        "ELO": 981.6386494820483,
+        "Games played": 1,
+        "Last played time": "2019-07-03 13:25:31.330830",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Banna": {
+        "ELO": 979.9104528520098,
+        "Games played": 1,
+        "Last played time": "2019-07-31 13:22:11.938645",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Bruna": {
+        "ELO": 977.077537685777,
+        "Games played": 3,
+        "Last played time": "2019-07-17 14:24:22.256876",
+        "Losses": 2,
+        "Streak": 0,
+        "Wins": 1
+    },
+    "Jonathan": {
+        "ELO": 966.3252763570348,
+        "Games played": 2,
+        "Last played time": "2019-05-08 13:12:17.576005",
+        "Losses": 2,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Shreyas": {
+        "ELO": 962.4320078565089,
+        "Games played": 2,
+        "Last played time": "2019-08-15 14:23:40.039270",
+        "Losses": 2,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Chris": {
+        "ELO": 929.4403251576392,
+        "Games played": 117,
+        "Last played time": "2019-08-15 14:27:35.720142",
+        "Losses": 73,
+        "Streak": 0,
+        "Wins": 44
+    },
+    "Emma": {
+        "ELO": 927.4263371521585,
+        "Games played": 84,
+        "Last played time": "2019-08-15 14:26:50.801947",
+        "Losses": 42,
+        "Streak": 0,
+        "Wins": 42
+    },
+    "Tiana": {
+        "ELO": 918.5280261190576,
+        "Games played": 13,
+        "Last played time": "2019-08-08 14:38:57.717401",
+        "Losses": 10,
+        "Streak": 0,
+        "Wins": 3
+    },
+    "Tyler": {
+        "ELO": 903.9280627550644,
+        "Games played": 5,
+        "Last played time": "2019-08-15 14:26:36.842980",
+        "Losses": 5,
+        "Streak": 0,
+        "Wins": 0
+    },
+    "Evan": {
+        "ELO": 792.2968006173544,
+        "Games played": 25,
+        "Last played time": "2019-08-15 14:26:24.404252",
+        "Losses": 20,
+        "Streak": 0,
+        "Wins": 5
+    }
+}

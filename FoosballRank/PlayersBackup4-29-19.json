@@ -1,0 +1,58 @@
+{
+    "Chris": {
+        "ELO": 982.7329743776727,
+        "Games played": 10,
+        "Last played time": "2019-04-29 14:51:15.026008",
+        "Losses": 6,
+        "Streak": 2,
+        "Wins": 4
+    },
+    "Emma": {
+        "ELO": 964.4199073564923,
+        "Games played": 8,
+        "Last played time": "2019-04-29 14:51:07.966301",
+        "Losses": 5,
+        "Streak": 0,
+        "Wins": 3
+    },
+    "Evan": {
+        "ELO": 963.7672671641021,
+        "Games played": 8,
+        "Last played time": "2019-04-29 14:51:15.026100",
+        "Losses": 5,
+        "Streak": 0,
+        "Wins": 3
+    },
+    "Helen": {
+        "ELO": 1124.3923895315638,
+        "Games played": 14,
+        "Last played time": "2019-04-29 14:51:38.928280",
+        "Losses": 1,
+        "Streak": 0,
+        "Wins": 13
+    },
+    "Herman": {
+        "ELO": 1015.0559250636018,
+        "Games played": 1,
+        "Last played time": "2019-04-29 14:51:07.966239",
+        "Losses": 0,
+        "Streak": 1,
+        "Wins": 1
+    },
+    "Matt": {
+        "ELO": 944.6609817970259,
+        "Games played": 11,
+        "Last played time": "2019-04-29 14:51:38.928218",
+        "Losses": 9,
+        "Streak": 1,
+        "Wins": 2
+    },
+    "Paul": {
+        "ELO": 1004.9705547095413,
+        "Games played": 2,
+        "Last played time": "2019-04-26 08:55:47.480701",
+        "Losses": 1,
+        "Streak": 1,
+        "Wins": 1
+    }
+}
