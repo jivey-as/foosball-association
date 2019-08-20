@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>ArchiveSocial Foosball Association</title>
+<script data-dojo-config="async: 1, dojoBlankHtmlUrl: 'js/blank.html',
+        packages: [ {
+            name: 'app',
+            location: location.pathname.replace(/\/[^/]+$/, '') + 'js/app'
+        } ]" src="//ajax.googleapis.com/ajax/libs/dojo/1.14.1/dojo/dojo.js"></script>
+</head>
+<body>
+<h1 style="text-align: center">Add Games</h1>
+<div style="width:400px;margin: 0 auto;">
+	<div style="float:left">
+		<h3>Player 1</h3>
+		<select>
+			<option>Jakin Ivey</option>
+			<option>Matt Havens</option>
+			<option>Aaron Casey</option>
+		</select>
+	</div>
+	<div style="float:right">
+		<h3>Player 2</h3>
+		<select>
+			<option>Jakin Ivey</option>
+			<option selected="selected">Matt Havens</option>
+			<option>Aaron Casey</option>
+		</select>
+	</div>
+	<p style="clear:both">
+	<div style="text-align: center">Winner</div>
+	<div id="gamesWon">
+		<div style="text-align:center">
+			<input type="radio" name="name" />
+			<input type="radio" name="name" />
+		</div>
+		<div style="text-align:center">
+			<input type="radio" name="name" disabled="disabled" />
+			<input type="radio" name="name" disabled="disabled" />
+		</div>
+	</div>
+</div>
+<br>
+<div style="text-align:center">
+	<button>Submit</button>
+</div>
+<script>
+    require([
+        'dojo/dom',
+        'dojo/dom-construct',
+        "dojo/request/xhr",
+        "app/GamesWon",
+        'dojo/domReady!'
+    ], function (dom, domConstruct, xhr, GamesWon) {
+    	//var gamesWon = new GamesWon({}, dom.byId("gamesWon"));
+    });
+		
+</script>
+</body>
+</html>
