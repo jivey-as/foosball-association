@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>ArchiveSocial Foosball Association</title>
+<script data-dojo-config="async: 1, dojoBlankHtmlUrl: 'js/blank.html',
+        packages: [ {
+            name: 'app',
+            location: location.pathname.replace(/\/[^/]+$/, '') + 'js/app'
+        } ]" src="//ajax.googleapis.com/ajax/libs/dojo/1.14.1/dojo/dojo.js"></script>
+</head>
+<body>
+<script>
+    require([
+        'dojo/dom',
+        'dojo/dom-construct',
+        "dojo/request/xhr",
+        "app/PlayerRanking",
+        'dojo/domReady!'
+    ], function (dom, domConstruct, xhr, PlayerRanking) {
+         xhr("playersStats", {
+           handleAs: "json",
+        }).then(function(data){
+        	for(var d in data){
+        		var player = data[d];
+        		var rankingDiv = domConstruct.create("div", {}, dom.byId("ranking"));
+        		new PlayerRanking({player: player}, rankingDiv);
+        	}
+        });
+    });
+		
+</script>
+<h1>ArchiveSocial Foosball Association</h1>
+<a id="addGame" href="addGames">Add Game(s)</a>
+<h2>Player Rankings</h2>
+<div id="rankings"></div>
+</body>
+</html>
